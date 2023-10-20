@@ -19,13 +19,13 @@ html,body{
 }
 
 .nav-logo{
-    height: 50px;
+    height: 55px;
     width: 120px;
     cursor: pointer;
 }
 
-.logo{
-    background-image: url("amazon_logo.png");
+#logo{
+    background-image: url('amazon_logo.png');
     background-size: cover;    
     height: 50px;
     width: 100%;
