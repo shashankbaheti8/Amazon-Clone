@@ -335,6 +335,12 @@ footer{
     padding: 20px 0;
 }
 
+.footer-panel4 .pages{
+    display: flex;
+    justify-content: center;
+    column-gap: 3%;
+}
+
 .footer-panel4 .pages a{
     color: white;
     text-decoration: none;
